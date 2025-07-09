@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792195229692",
+    "project_id": "flowpluschat",
+    "storage_bucket": "flowpluschat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792195229692:android:9b6bec54d859a8e9f23479",
+        "android_client_info": {
+          "package_name": "com.example.magmentv101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNVS1sJpDr4AxVvhpvx4smkA01TzDl8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792195229692:android:0769918653d7b238f23479",
+        "android_client_info": {
+          "package_name": "com.example.mangmentv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNVS1sJpDr4AxVvhpvx4smkA01TzDl8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
